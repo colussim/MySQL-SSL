@@ -19,6 +19,7 @@ Before you get started, you’ll need to have these things:
 
 - mysqlshell or mysql client installed
 - OpenSSL installed
+- A MySQL instance installed
 
 ### Steps
 
