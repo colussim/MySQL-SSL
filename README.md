@@ -167,6 +167,7 @@ It’s possible to use X509 certificates (self-signed or not) to connect to MySQ
 ## References
 
 Refer to the official MySQL documentation for more details on configuring SSL and other security aspects:
-[MySQL Security.](https://dev.mysql.com/doc/refman/9.0/en/security.html)
-[JDBC Connector](https://dev.mysql.com/doc/connector-j/en/connector-j-reference-configuration-properties.html)
+
+[MySQL Security.](https://dev.mysql.com/doc/refman/9.0/en/security.html)      
+[JDBC Connector](https://dev.mysql.com/doc/connector-j/en/connector-j-reference-configuration-properties.html)   
 [MySQL and Encrypted Connections in the manual](https://dev.mysql.com/doc/refman/9.0/en/using-encrypted-connections.html).
