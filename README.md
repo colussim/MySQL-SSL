@@ -160,7 +160,7 @@ The same certificate and key can be used in MySQL client  for your connexion too
 ## Conclusion
 
 In conclusion, establishing a secure connection to a MySQL instance is essential to protect sensitive data from unauthorized access. By following the steps outlined in this document, such as configuring SSL and creating secure users, administrators can enhance the security of their database. It is also crucial to remain vigilant and adopt best practices for managing users and certificates. I encourage you to implement these recommendations and consult additional resources to deepen your understanding of security in MySQL.
-It’s possible to use X509 certificates (self-signed or not) to connect to MySQL. With or without a password. 
+It’s possible to use X509 certificates (self-signed or not) to connect to MySQL With or without a password. 
 
 ---
 
